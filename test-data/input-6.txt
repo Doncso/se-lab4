@@ -1,0 +1,5 @@
+# TC06 – Egy torpedó, két lövés SINGLE módban
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+EXIT

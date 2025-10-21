@@ -1,0 +1,4 @@
+# TC05 – SECONDARY mindig hibázik (ALL sikertelen)
+GT4500,1,0,1,1.0
+TORPEDO,ALL
+EXIT

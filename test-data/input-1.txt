@@ -1,0 +1,4 @@
+# TC01 – Legalább egy torpedóval lehet lőni (SINGLE)
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE  # második próbálkozás, hogy lássuk, tényleg 1 torpedó volt
