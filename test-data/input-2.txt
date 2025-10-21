@@ -1,0 +1,4 @@
+# TC02 – PRIMARY üres, SECONDARY-ben van 1 torpedó
+GT4500,0,0,1,0
+TORPEDO,SINGLE
+EXIT
